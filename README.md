@@ -1,7 +1,7 @@
 # MEVD
 
 
-***This repository publicly shares certain tools used in the paper titled "ME: A Smart Contract Vulnerability Detection Method Based on Multi-Scale Encoders," along with the release of experimental data.***
+***This repository publicly shares certain tools used in the paper titled "Smart Contract Vulnerability Detection based on Multi-scale Encoders" along with the release of experimental data.***
 
 
 
