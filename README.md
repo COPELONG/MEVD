@@ -45,4 +45,6 @@ Below is a visual representation showcasing a portion of the experimental data:
 
 [10] Nguyen H H, Nguyen N-M, Xie C, et al. MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities[Z]. arXiv, 2022(2022-09-07).
 
+**If you have any questions, please post them on the issue！**
+
 **To be continued...**
