@@ -1,0 +1,32 @@
+contract VAR1 {
+mapping(address => uint256) public VAR2; //VAR3't include interest returned but allows other addresses to send VAR4
+uint256 public VAR5;                         //includes reinvested VAR6 + totalOtherReceived outside VAR7
+uint256 public VAR8;                //total received outside VAR7
+uint256 public VAR9;           //updated for promotional VAR10
+address public VAR11;
+address public VAR7;
+event FUN1(address indexed sender, uint VAR12, uint256 VAR13);
+event FUN2(address indexed sender, uint VAR12, uint256 VAR13);
+constructor() public {
+VAR11 = 0x35027a992A3c232Dd7A350bb75004aD8567561B2;    //VAR14
+VAR7 = 0xFfB8ccA6D55762dF595F21E78f21CD8DfeadF1C8;  //VAR7
+}
+function () external payable {
+emit FUN1(msg.sender, msg.value, VAR15);  //msg.sender is EIF if it is VAR6
+if (msg.sender != VAR11) {                    //will only use more gas if not a returned interest VAR16
+VAR2[msg.sender] += msg.value; //update totals for this sender (normally VAR7)
+if (msg.sender != VAR7) {              //update totalsOtherReceived updates if VAR17-VAR7
+VAR8 += msg.value;
+}
+}
+}
+function FUN3() external {
+uint256 VAR18=address(this).VAR19;
+VAR5 += VAR18;                                                 //update VAR5
+VAR9 = VAR5-VAR2[VAR7]-VAR8; //update VAR9
+emit FUN2(msg.sender, VAR18, VAR15);
+if(!VAR11.call.value(VAR18)()) revert();
+}
+}
+1
+---------------------------------
