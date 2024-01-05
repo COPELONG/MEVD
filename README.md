@@ -1,9 +1,12 @@
 # MEVD
 
-
 ***This repository publicly shares certain tools used in the paper titled "Smart Contract Vulnerability Detection based on Multi-scale Encoders" along with the release of experimental data.***
 
+## Evaluation
 
+MEVD has been rigorously evaluated against existing  methods and state-of-the-art deep learning techniques. Our evaluations,  benchmarked against these methods, reveal that MEVD demonstrates  superior performance across key metrics such as accuracy, precision,  recall, and F1-Score.
+
+## Result:
 
 Below is a visual representation showcasing a portion of the experimental data:
 
@@ -19,9 +22,56 @@ Below is a visual representation showcasing a portion of the experimental data:
 
 ![result1](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/result1.png)
 
+## Getting Started
 
+--------------------------------
 
-推荐几篇本人认为在智能合约漏洞检测方向上比较优秀且已开源的论文：
+### Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Python (version 3.5 or higher)
+- Git (for cloning the repository)
+
+### Installation
+
+1. **Clone the Repository**
+
+```
+git clone git@github.com:COPELONG/MEVD.git
+```
+
+2. **Navigate to the Project Directory**
+
+```
+cd MEVD/code/MEVD
+```
+
+3. **Install Required Python Packages**
+
+```
+pip install -r requirements.txt 
+```
+
+### Running MEVD
+
+```
+python train.py
+```
+
+## Contact & Support
+
+For any questions, feedback, or suggestions regarding the MEVD project, please reach out to the project maintainers:
+
+- Long 
+  - Email: lulong@st.xatu.edu.cn
+  - GitHub: [@COPELONG](https://github.com/COPELONG)
+
+We appreciate your interest in the MEVD project!
+
+-------------------------------------------------
+
+## Some excellent papers:
 
 [1] Yu X, Zhao H, Hou B, et al. DeeSCVHunter: A Deep Learning-Based Framework for Smart Contract Vulnerability Detection[C]//2021 International Joint Conference on Neural Networks (IJCNN). 2021: 1-8Shenzhen, China: IEEE, 2021: 1-8.
 
@@ -45,6 +95,6 @@ Below is a visual representation showcasing a portion of the experimental data:
 
 [10] Nguyen H H, Nguyen N-M, Xie C, et al. MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities[Z]. arXiv, 2022(2022-09-07).
 
-**If you have any questions, please post them on the issue！**
+**If you have any questions, please post them on the issue ！**
 
 **To be continued...**
