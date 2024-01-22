@@ -95,6 +95,14 @@ We (326) appreciate your interest in the MEVD project!
 
 [10] Nguyen H H, Nguyen N-M, Xie C, et al. MANDO: Multi-Level Heterogeneous Graph Embeddings for Fine-Grained Detection of Smart Contract Vulnerabilities[Z]. arXiv, 2022(2022-09-07).
 
+[11] Hu, S.; Huang, T.; İlhan, F.; Tekin, S.F.; Liu, L. Large Language Model-Powered Smart Contract Vulnerability Detection: New Perspectives 2023.
+
+[12] Li, M.; Ren, X.; Fu, H.; Li, Z.; Sun, J. ConvMHSA-SCVD: Enhancing Smart Contract Vulnerability Detection through a Knowledge-Driven and Data-Driven Framework. In Proceedings of the 2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE); IEEE: Florence, Italy, October 9 2023; pp. 578–589.
+
+[13] Yu, L.; Lu, J.; Liu, X.; Yang, L.; Zhang, F.; Ma, J. PSCVFinder: A Prompt-Tuning Based Framework for Smart Contract Vulnerability Detection. In Proceedings of the 2023 IEEE 34th International Symposium on Software Reliability Engineering (ISSRE); IEEE: Florence, Italy, October 9 2023; pp. 556–567.
+
+[14] Zhang, Y.; Liu, D. Toward Vulnerability Detection for Ethereum Smart Contracts Using Graph-Matching Network. *Future Internet* **2022**, *14*, 326, doi:[10.3390/fi14110326](https://doi.org/10.3390/fi14110326).
+
 **If you have any questions, please post them on the issue ！**
 
 **To be continued...**
