@@ -1,3 +1,3 @@
-![image-20231222161739740](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/image-20231222161739740.png)
+![Figure_3](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/Figure_3.png)
 
 ![result1](https://my-figures.oss-cn-beijing.aliyuncs.com/Figures/result1.png)
